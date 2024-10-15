@@ -1,7 +1,7 @@
 {
   "name": "currency-convertor",
   "version": "1.0.0",
-  "description": "npm package to convert currency",
+  "description": "npm package to convert currencya",
   "main": "index.js",
   "type": "module",
   "scripts": {

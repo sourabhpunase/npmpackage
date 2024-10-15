@@ -13,13 +13,3 @@ return multiplier*units;
 
 
 }
-
-
-
-
-// freecurrencyapi.latest({
-//     base_currency: 'USD',
-//     currencies: 'EUR'
-// }).then(response => {
-//     console.log(response);
-// });
