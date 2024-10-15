@@ -1,0 +1,16 @@
+{
+  "name": "currrency-convertor-test",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "script.js",
+  "dependencies": {
+    "currency-convertor": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
