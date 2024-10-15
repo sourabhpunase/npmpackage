@@ -1,0 +1,23 @@
+{
+  "name": "currency-convertor",
+  "version": "1.0.0",
+  "description": "npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabhpunase/npmpackage.git"
+  },
+  "author": "sourabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabhpunase/npmpackage/issues"
+  },
+  "homepage": "https://github.com/sourabhpunase/npmpackage#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
